@@ -1,9 +1,9 @@
 ## VATSIM Sweden ACC Sectorization Map Data
 
-### Content of config.json
+### Content of config.json:
 
 
-#### // List of possible ACC logon codes for Sweden
+1. List of possible ACC logon codes for Sweden:
 ```
 "controllerList": [
   { "name": "ESAA", "color": "#1f77b4" },
@@ -11,7 +11,7 @@
 ],
 ```
 
-#### // VATSIM Sector Ownership Logic (in correct order for each sector)
+2. VATSIM Sector Ownership Logic in correct order:
 ```
 "sectorsOwnership": {
   "ESOS1": ["ESOS 1", "ESOS 9", "ESOS 3", "ESAA"],
@@ -19,14 +19,14 @@
 },
 ````
 
-#### // Presets of the most common sector combinations in Sweden (for quick-selection buttons)
+3. Presets of the most common sector combinations in Sweden:
 ```
 "presets": [
   { "name": "OS 3 + MM 2", "controllers": ["ESOS 3", "ESMM 2"] },...
 ],
 ````
 
-#### // Combining sectors with real life sectors
+4. Combining sectors with real life sectors defined in another file:
 ```
 "connectGroupWithRealSectors": {
   "ESOS1": ["ESOS 1:1", "ESOS 1:2", "ESOS 1:3"],
