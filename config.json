@@ -62,7 +62,7 @@
   "presetsESMM": [
     { "name": "5 + 7", "controllers": ["ESMM 5", "ESMM 7"] },
     { "name": "5 + 7 + K", "controllers": ["ESMM 5", "ESMM 7", "ESMM K"] },
-    { "name": "2 + 5 + 7 + 8", "controllers": ["ESMM 2", "ESMM 5", "ESMM 7", "ESMM 8"] },
+    { "name": "2 + 5 + 7 + 8", "controllers": ["ESMM 2", "ESMM 5", "ESMM 7", "ESMM 8"] }
   ],
   "connectGroupWithRealSectors": {
     "ESOS1": ["ESOS 1:1", "ESOS 1:2", "ESOS 1:3"],
