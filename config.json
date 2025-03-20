@@ -28,7 +28,7 @@
   "sectorsOwnership": {
     "ESOS1": ["ESOS 1", "ESOS 9", "ESOS 3", "ESAA"],
     "ESOS2": ["ESOS 2", "ESOS 7", "ESOS 9", "ESOS 1", "ESOS 3", "ESAA"],
-    "ESOS3": ["ESOS 3", "ESOS 8", "ESOSN", "ESOS 1", "ESAA"],
+    "ESOS3": ["ESOS 3", "ESOS 8", "ESOS N", "ESOS 1", "ESAA"],
     "ESOS4": ["ESOS 4", "ESOS F", "ESOS N", "ESOS K", "ESOS 3", "ESOS 1", "ESAA"],
     "ESOS6": ["ESOS 6", "ESOS 1", "ESOS 9", "ESOS 3", "ESAA"],
     "ESOS7": ["ESOS 7", "ESOS 1", "ESOS 9", "ESOS 3", "ESAA"],
