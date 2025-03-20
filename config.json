@@ -50,8 +50,19 @@
     "ESMMW": ["ESMM W", "ESMM 7", "ESMM 2", "ESAA"],
     "ESMMY": ["ESMM Y", "ESMM 6", "ESMM 7", "ESMM 2", "ESAA"]
   },
-  "presets": [
-    { "name": "OS 3 + MM 2", "controllers": ["ESOS 3", "ESMM 2"] }
+  "presetsESOS": [
+    { "name": "1 + 3", "controllers": ["ESOS 1", "ESOS 3"] },
+    { "name": "3 + N", "controllers": ["ESOS 3", "ESOS N"] },
+    { "name": "1 + 8", "controllers": ["ESOS 1", "ESOS 8"] },
+    { "name": "1 + 9", "controllers": ["ESOS 1", "ESOS 9"] },
+    { "name": "1 + 3 + N", "controllers": ["ESOS 1", "ESOS 3", "ESOS N"] },
+    { "name": "1 + 9 + K", "controllers": ["ESOS 1", "ESOS 9", "ESOS K"] },
+    { "name": "1 + N + K", "controllers": ["ESOS 1", "ESOS N", "ESOS K"] }
+  ],
+  "presetsESMM": [
+    { "name": "5 + 7", "controllers": ["ESMM 5", "ESMM 7"] },
+    { "name": "5 + 7 + K", "controllers": ["ESMM 5", "ESMM 7", "ESMM K"] },
+    { "name": "2 + 5 + 7 + 8", "controllers": ["ESMM 2", "ESMM 5", "ESMM 7", "ESMM 8"] },
   ],
   "connectGroupWithRealSectors": {
     "ESOS1": ["ESOS 1:1", "ESOS 1:2", "ESOS 1:3"],
