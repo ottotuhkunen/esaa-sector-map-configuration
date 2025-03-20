@@ -2,7 +2,7 @@
   "controllerList": [
     { "name": "ESAA", "color": "#1f77b4" },
     { "name": "ESOS 1", "color": "#e41a1c" },
-    { "name": "ESOS 2", "color": "#ff7f0e" },
+    { "name": "ESOS 2", "color": "#ffcc00" },
     { "name": "ESOS 3", "color": "#2ca02c" },
     { "name": "ESOS 4", "color": "#bcbd22" },
     { "name": "ESOS 6", "color": "#17becf" },
@@ -10,7 +10,7 @@
     { "name": "ESOS 8", "color": "#7f7f7f" },
     { "name": "ESOS 9", "color": "#8c564b" },
     { "name": "ESOS F", "color": "#9467bd" },
-    { "name": "ESOS K", "color": "#ffcc00" },
+    { "name": "ESOS K", "color": "#ff7f0e" },
     { "name": "ESOS N", "color": "#1a55a1" },
     { "name": "ESMM 2", "color": "#ff1493" },
     { "name": "ESMM 3", "color": "#32cd32" },
