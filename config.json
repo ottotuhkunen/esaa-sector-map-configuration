@@ -51,13 +51,16 @@
     "ESMMY": ["MM Y", "MM 6", "MM 7", "MM 2", "ESAA"]
   },
   "presetsESOS": [
-    { "name": "1 + K", "controllers": ["OS 1", "OS K"] },
-    { "name": "9 + N", "controllers": ["OS 9", "OS N"] },
     { "name": "1 + 3", "controllers": ["OS 1", "OS 3"] },
+    { "name": "9 + N", "controllers": ["OS 9", "OS N"] },
     { "name": "3 + N", "controllers": ["OS 3", "OS N"] },
-    { "name": "1 + 3 + N + F + K", "controllers": ["OS 1", "OS 3", "OS N", "OS F", "OS K"] },
+    { "name": "1 + K", "controllers": ["OS 1", "OS K"] },
+    { "name": "N + K", "controllers": ["OS N", "OS K"] },
+    { "name": "1 + 8", "controllers": ["OS 1", "OS 8"] },
+    { "name": "1 + N + K", "controllers": ["OS 1", "OS N", "OS K"] },
     { "name": "1 + 3 + N", "controllers": ["OS 1", "OS 3", "OS N"] },
-    { "name": "1 + 8", "controllers": ["OS 1", "OS 8"] }
+    { "name": "3 + N + K", "controllers": ["OS 3", "OS N", "OS K"] },
+    { "name": "1 + 3 + N + F + K", "controllers": ["OS 1", "OS 3", "OS N", "OS F", "OS K"] }
   ],
   "presetsESMM": [
     { "name": "2 + 5", "controllers": ["MM 2", "MM 5"] },
