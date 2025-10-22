@@ -43,7 +43,7 @@
     "ESMM5": ["MM 5", "MM 4", "MM 2", "ESAA"],
     "ESMM6": ["MM 6", "MM 7", "MM 8", "MM Y", "MM 2", "ESAA"],
     "ESMM7": ["MM 7", "MM 6", "MM 8", "MM Y", "MM 2", "ESAA"],
-    "ESMM8": ["MM 8", "MM 9", "MM 6", "MM 7", "MM Y", "MM 2", "ESAA"],
+    "ESMM8": ["MM 8", "MM 9", "MM 7", "MM 6", "MM Y", "MM 2", "ESAA"],
     "ESMM9": ["MM 9", "MM 8", "MM 6", "MM 7", "MM Y", "MM 2", "ESAA"],
     "ESMMK": ["MM K", "MM 2", "MM 4", "ESAA"],
     "ESMML": ["MM L", "MM K", "MM 8", "MM 7", "MM Y", "MM 2", "ESAA"],
