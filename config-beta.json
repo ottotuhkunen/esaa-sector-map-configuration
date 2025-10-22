@@ -65,11 +65,11 @@
     { "name": "1 + 3 + N + F + K", "controllers": ["OS 1", "OS 3", "OS N", "OS F", "OS K"] }
   ],
   "presetsESMM": [
-    { "name": "2", "controllers": ["MM 2"] },
-    { "name": "4", "controllers": ["MM 4"] },
-    { "name": "7", "controllers": ["MM 7"] },
-    { "name": "K", "controllers": ["MM K"] },
-    { "name": "6", "controllers": ["MM 6"] },
+    { "name": " 2 ", "controllers": ["MM 2"] },
+    { "name": " 4 ", "controllers": ["MM 4"] },
+    { "name": " 7 ", "controllers": ["MM 7"] },
+    { "name": " K ", "controllers": ["MM K"] },
+    { "name": " 6 ", "controllers": ["MM 6"] },
     { "name": "2 + 7", "controllers": ["MM 2", "MM 7"] },
     { "name": "4 + 7", "controllers": ["MM 4", "MM 7"] },
     { "name": "4 + Y", "controllers": ["MM 4", "MM Y"] },
