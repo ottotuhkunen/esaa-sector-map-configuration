@@ -78,7 +78,7 @@
     { "name": "2 + 7 + K", "controllers": ["MM 2", "MM 7", "MM K"] },
     { "name": "2 + 4 + 7", "controllers": ["MM 2", "MM 4", "MM 7"] },
     { "name": "2 + 7 + K + W", "controllers": ["MM 2", "MM 7", "MM K", "MM W"] },
-    { "name": "2 + 4 + 7 + Y", "controllers": ["MM 2", "MM 4", "MM 7", "MM Y"] },
+    { "name": "2 + 4 + 7 + W", "controllers": ["MM 2", "MM 4", "MM 7", "MM W"] },
     { "name": "2 + 4 + 7 + 8 + K + W", "controllers": ["MM 2", "MM 4", "MM 7", "MM 8", "MM K", "MM W"] }
   ],
   "connectGroupWithRealSectors": {
